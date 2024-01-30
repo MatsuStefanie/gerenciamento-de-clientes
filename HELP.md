@@ -39,6 +39,7 @@ cd gerenciamento-de-clientes
 
 Execute o Docker Compose para configurar o banco de dados:
 ```
+cd db
 docker-compose up -d
 ```
 
